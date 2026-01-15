@@ -16,8 +16,6 @@ My research interests lie at the intersection of **Behavioral Economics** and **
 *Check my repositories for replication materials related to:*
 
 * **Reading Between the Reels**: AI-Powered Analysis on Movie Review Sentiment (*Intl. Journal of Finance and Economics*, 2026)
-* **Short-Term Price Anchors**: Evidence from the Chinese Stock Market (*Working Paper*)
-* **Green Effect of Energy Transition Policy**: A Quasi-natural Experiment (*Finance Research Letters*, 2024)
 
 ---
 
