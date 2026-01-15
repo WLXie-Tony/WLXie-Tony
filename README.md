@@ -33,9 +33,3 @@ My research interests lie at the intersection of **Behavioral Economics** and **
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=WLXie-Tony&show_icons=true&theme=minimal&hide_border=true" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WLXie-Tony&layout=compact&theme=minimal&hide_border=true" alt="languages" />
-</p>
