@@ -2,13 +2,11 @@
 
 I am a student at **The University of Chicago** 🇺🇸, with a background in Data Analytics and Economics.
 
-My research interests lie at the intersection of **Empirical Analysis** and **AI in Finance** (e.g., NLP, Sentiment Analysis).
+My research interests lie at the intersection of **Empirical Analysis** and **AI applications in Social Sciences** (e.g., NLP, Sentiment Analysis).
 
 > 💡 **Note:** I use this GitHub profile primarily to share and maintain **replication codes** for my published papers to ensure research transparency and reproducibility.
 
 - 🔭 I’m currently working as a Research Assistant at **UChicago Dept. of Economics**, focusing on partial identification strategies and RDD replication.
-  
-- 👯 I’m looking to collaborate on topics related to **Financial Economics** and **AI applications in Social Sciences**.
   
 - 📫 How to reach me: **wenlanx@uchicago.edu**
   
