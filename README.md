@@ -9,7 +9,8 @@ My research interests lie at the intersection of **Behavioral Economics** and **
 - 🔭 I’m currently working as a Research Assistant at **UChicago Dept. of Economics**, focusing on partial identification strategies and RDD replication.
 - 👯 I’m looking to collaborate on topics related to **Financial Economics** and **AI applications in Social Sciences**.
 - 📫 How to reach me: **wenlanx@uchicago.edu**
-
+- 📖 Personal homepage: [https://rentainhe.github.io/
+](https://www.wenlanxie.com/)
 ---
 
 ### 📚 Selected Publications & Replication Codes
