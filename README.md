@@ -7,7 +7,7 @@ My research interests lie at the intersection of **Behavioral Economics** and **
 > 💡 **Note:** I use this GitHub profile primarily to share and maintain **replication codes** for my published papers to ensure research transparency and reproducibility.
 
 - 🔭 I’m currently working as a Research Assistant at **UChicago Dept. of Economics**, focusing on partial identification strategies and RDD replication.
-- 👯 I’m looking to collaborate on topics related to **Financial Economics** and **Machine Learning applications in Social Sciences**.
+- 👯 I’m looking to collaborate on topics related to **Financial Economics** and **AI applications in Social Sciences**.
 - 📫 How to reach me: **wenlanx@uchicago.edu**
 
 ---
