@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=B82CF7&width=435&lines=Hi+there%2C+I'm+Wenlan+(Tony)+Xie+%F0%9F%91%8B;I+am+a+student+at+The+University+of+Chicago%2C+with+a+background+in+Data+Analytics+and+Economics.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=B82CF7&width=435&lines=Hi+there%2C+I'm+Wenlan+(Tony)+Xie+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 I am a student at **The University of Chicago**, with a background in Data Analytics and Economics.
 
