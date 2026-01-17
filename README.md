@@ -16,8 +16,8 @@ My research interests lie at the intersection of **Econometrics** and **Computat
 ### 📚 Selected Publications & Replication Codes
 *Check my repositories for replication materials related to:*
 
-* **Reading Between the Reels**: AI-Powered Analysis on Movie Review Sentiment (*Intl. Journal of Finance and Economics*, 2026)
-* The effect of the COVID-19 pandemic on corporate trade credit financing (*Intl. Economics Letter*, 2023)
+* **Reading Between the Reels: AI-Powered Analysis on Movie Review Sentiment** (*Intl. Journal of Finance and Economics*, 2026)
+* **The effect of the COVID-19 pandemic on corporate trade credit financing** (*Intl. Economics Letter*, 2023)
 ---
 
 ### 🛠️ Languages and Tools
