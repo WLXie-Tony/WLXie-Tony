@@ -2,7 +2,7 @@
 
 I am a student at **The University of Chicago**, with a background in Data Analytics and Economics.
 
-My research interests lie at the intersection of **Empirical Analysis** and **Computational Social Science** (e.g., NLP, Machine Learning).
+My research interests lie at the intersection of **Econometrics** and **Computational Social Science** (e.g., NLP, Machine Learning).
 
 > 💡 **Note:** I use this GitHub profile primarily to share and maintain **replication codes** for my published papers to ensure research transparency and reproducibility.
 
