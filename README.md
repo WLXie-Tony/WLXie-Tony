@@ -6,7 +6,7 @@ My research interests lie at the intersection of **Econometrics** and **Computat
 
 > 💡 **Note:** I use this GitHub profile primarily to share and maintain **replication codes** for my published papers to ensure research transparency and reproducibility.
 
-- 🔭 I’m currently working as a Research Assistant at **UChicago Dept. of Economics**, focusing on partial identification strategies and RDD replication.
+- 🔭 I’m currently working as a Research Assistant at **UChicago**, focusing on partial identification strategies and RDD replication.
   
 - 📫 How to reach me: **wenlanx@uchicago.edu**
   
