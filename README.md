@@ -4,7 +4,7 @@
 
 <p>
   <a href="mailto:wenlanx@uchicago.edu">
-    <img src="https://img.shields.io/badge/Email-wenlanx%40uchicago.edu-555555?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-wenlanx%40uchicago.edu-555555?style=flat-square" />
   </a>
   <a href="https://www.wenlanxie.com">
     <img src="https://img.shields.io/badge/Website-wenlanxie.com-6A5ACD?style=flat-square&logo=googlechrome&logoColor=white" />
@@ -22,11 +22,11 @@
 
 I am a student at **The University of Chicago**, with a background in **Data Analytics and Economics**.
 
-My research interests lie at the intersection of **Econometrics**, **Machine Learning**, and **Computational Social Science**, with a particular interest in text-as-data and empirical economic research.
+My research interests lie at the intersection of **Econometrics**, **Machine Learning**, and **Computational Social Science**, with particular interests in text-as-data and empirical economic research.
 
-> 💡 I use this GitHub profile primarily to share and maintain **replication code** for my research and published papers, with the goal of supporting research transparency and reproducibility.
+> 💡 **Note:** I use this GitHub profile primarily to share and maintain **replication code** for my research and published papers, supporting research transparency and reproducibility.
 
-- 🔭 Currently working as a Research Assistant at **UChicago**, focusing on partial identification strategies and RDD replication.
+- 🔭 I am currently working as a Research Assistant at **UChicago**, focusing on partial identification strategies and RDD replication.
 - 📫 Email: **wenlanx@uchicago.edu**
 - 🌐 Personal website: **[wenlanxie.com](https://www.wenlanxie.com)**
 
@@ -40,7 +40,7 @@ My research interests lie at the intersection of **Econometrics**, **Machine Lea
 
 `NLP` · `Machine Learning` · `Sentiment Analysis` · `Asset Pricing`
 
-[![Code](https://img.shields.io/badge/Replication-Code-181717?style=flat-square&logo=github)](https://github.com/WLXie-Tony/Movie_Review_Analysis)
+[![Replication Code](https://img.shields.io/badge/Replication-Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/WLXie-Tony/Movie_Review_Analysis)
 
 ---
 
@@ -50,7 +50,16 @@ My research interests lie at the intersection of **Econometrics**, **Machine Lea
 
 `Corporate Finance` · `Difference-in-Differences` · `Stata`
 
-[![Code](https://img.shields.io/badge/Replication-Code-181717?style=flat-square&logo=github)](https://github.com/WLXie-Tony/COVID19-TradeCredit)
+[![Replication Code](https://img.shields.io/badge/Replication-Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/WLXie-Tony/COVID19-TradeCredit)
+
+---
+
+## 🔬 Current Research
+
+- **Partial Identification** — econometric methods for identification under incomplete information
+- **Regression Discontinuity Designs** — replication and empirical implementation
+- **Text-as-Data** — NLP and large-scale textual analysis for economic research
+- **Machine Learning for Economics** — prediction and measurement using high-dimensional data
 
 ---
 
@@ -67,6 +76,31 @@ My research interests lie at the intersection of **Econometrics**, **Machine Lea
 
 ---
 
+## 🐍 Contribution Activity
+
 <div align="center">
-  <sub>Research · Replication · Open Science</sub>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/WLXie-Tony/WLXie-Tony/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/WLXie-Tony/WLXie-Tony/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution grid snake animation"
+    src="https://raw.githubusercontent.com/WLXie-Tony/WLXie-Tony/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>Research · Replication · Open Science</sub>
+
 </div>
