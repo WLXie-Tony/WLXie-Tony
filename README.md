@@ -26,8 +26,6 @@ My research interests lie at the intersection of **Econometrics**, **Machine Lea
 
 > 💡 **Note:** I use this GitHub profile primarily to share and maintain **replication code** for my research and published papers, supporting research transparency and reproducibility.
 
-- 🔭 I am currently working as a Research Assistant at **UChicago**, focusing on partial identification strategies and RDD replication.
-- 📫 Email: **wenlanx@uchicago.edu**
 - 🌐 Personal website: **[wenlanxie.com](https://www.wenlanxie.com)**
 
 ---
