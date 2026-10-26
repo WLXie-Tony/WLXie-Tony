@@ -9,9 +9,9 @@
   <a href="https://www.wenlanxie.com">
     <img src="https://img.shields.io/badge/Website-wenlanxie.com-6A5ACD?style=flat-square&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="https://orcid.org/0009-0003-5073-5646">
+  <!-- <a href="https://orcid.org/0009-0003-5073-5646">
     <img src="https://img.shields.io/badge/ORCID-0009--0003--5073--5646-A6CE39?style=flat-square&logo=orcid&logoColor=white" />
-  </a>
+  </a> -->
 </p>
 
 </div>
